@@ -1,8 +1,6 @@
-### 你好呀 👋
+### Hello 👋
 
-📫联系方式：QQ 2437315224，邮箱 2437315224@qq.com / q2437315224@gmail.com(不常用)
-
-📚 统计数据
+📫Contact Me：QQ: 2437315224, Email: 2437315224@qq.com / q2437315224@gmail.com
 
 ![](https://raw.githubusercontent.com/TT432/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/TT432/github-stats/master/generated/overview.svg#gh-light-mode-only)
